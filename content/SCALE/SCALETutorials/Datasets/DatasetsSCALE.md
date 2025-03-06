@@ -35,7 +35,7 @@ We recommend organizing your pool with datasets before configuring [data sharing
 
 ### Setting Dataset Compression Levels
 
-Compression encodes information in less space than the original data occupies. 
+Compression encodes information in less space than the original data occupies.
 We recommend choosing a compression algorithm that balances disk performance with the amount of saved space.
 
 {{< trueimage src="/images/SCALE/Datasets/AddDatasetCompressionLevelOptions.png" alt="Add Dataset Compression Level Options" id="Add Dataset Compression Level Options" >}}
